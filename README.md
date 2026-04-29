@@ -19,7 +19,7 @@ NLP and knowledge graph systems for entity resolution, adverse media classificat
 |--------|-------------|-------|
 | [BlackBox Hackathon 2026](https://github.com/Prakharanand000/BlackBox-Hackathon-2026) 🏆 | Digital doppelganger prediction using a V18 adaptive blend model — r=0.1661, 65.6% accuracy. Built with Claude API, persona bias shifts, and variance scaling. | `Python` `Claude API` `Jupyter` |
 | [KhabarLens AI](https://github.com/Prakharanand000/khabarlens-ai) | Multi-perspective news intelligence agent — 300+ sources, event clustering, bias scores, 21-category adverse-news classification, and voice briefings. | `Python` `NLP` `Agentic AI` |
-| [PACEA Resilience Tracker](https://github.com/Prakharanand000/PACEA-NonProfit-Resilience-Tracker-UCDavis-Aggie-Hackathon-2026) | Operational resilience tracking tool for nonprofits. Built at UC Davis Aggie Hackathon 2026. | `Python` |
+| [PACEA Resilience Tracker](https://github.com/Prakharanand000/PACEA-NonProfit-Resilience-Tracker-UCDavis-Aggie-Hackathon-2026) 🏆| Operational resilience tracking tool for nonprofits. Built at UC Davis Aggie Hackathon 2026. | `Python` |
 | [Weather Forecasting](https://github.com/Prakharanand000/Weather-Conditions-Forecasting-using-Neural-Networks) | Multi-step weather prediction using deep learning and neural network architectures. | `Python` `Jupyter` |
 | [Credit Card Churn](https://github.com/Prakharanand000/Credit-Card-Customer-Churn-Prediction-using-ANN-Boosting-Techniques) | Customer churn prediction using ANN and boosting ensemble methods at scale. | `Python` `Jupyter` |
 

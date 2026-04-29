@@ -1,6 +1,6 @@
 # Hi, I'm Prakhar Anand 👋
 
-Data Scientist and ML/NLP engineer with 5 years of experience building analytics systems at scale. Currently completing my MS in Business Analytics at UC Davis (Dean's Fellow, 2026). Previously embedded at Meta's Sanctions and Financial Intelligence Unit via PwC US Advisory.
+Data Scientist and ML/NLP engineer with 5 years of experience building analytics systems at scale. Currently completing my MS in Business Analytics at UC Davis (Dean's Fellow, 2026). Previously embedded at Meta's Sanctions Financial Intelligence Unit via PwC US Advisory.
 
 I work at the intersection of financial crime analytics, NLP pipelines, and product data science - building things that are both technically rigorous and actually useful.
 

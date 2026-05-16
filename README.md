@@ -1,15 +1,19 @@
 # Hi, I'm Prakhar Anand!
 
-Data Scientist and AI engineer with 5 years building ML/NLP pipelines, agentic AI systems, and financial crime analytics at scale.
-MS in Business Analytics, UC Davis - Dean's Fellow, 2026. Previously embedded at Meta's Sanctions and Financial Intelligence Unit via PwC US Advisory.
+I turn messy data into clear decisions, and big questions into even bigger answers. Welcome to my corner of the internet.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-anand-12a041131/)
 
 ---
 
-## What I build
+## Dual Master's, five years shipping
 
-NLP and knowledge graph systems for entity resolution, adverse media classification, and sanctions screening. Agentic AI pipelines using LangGraph, CrewAI, and Claude API. End-to-end analytics engineering from scraping through ML modeling and visualization. Financial crime detection and compliance intelligence.
+Data Scientist with dual Master's degrees in Business Analytics (UC Davis, Dean's Fellowship) and Economics (Delhi School of Economics) and 5 years of experience advising clients across financial services, healthcare, retail, technology media & telecommunications, and product-based companies. Built and shipped ML, NLP, graph analytics, and forecasting solutions using Python, SQL, and PySpark.
+
+I translate model results into clear, actionable recommendations for cross-functional stakeholders across Product, Engineering, and Compliance. I love solving business problems using the power of analytics, regardless of the domain.
+
+Outside work: chess, badminton, acoustic guitar, the Oakland Half Marathon, and reading everything on agentic AI systems.
 
 ---
 
@@ -28,9 +32,8 @@ NLP and knowledge graph systems for entity resolution, adverse media classificat
 ## Tech stack
 
 **Languages:** Python, SQL, JavaScript  
-**ML / AI:** PyTorch, scikit-learn, HuggingFace, LangChain, LangGraph, Claude API  
-**Data:** Pandas, NumPy, MongoDB, SQLite, Spark  
-**Domains:** NLP, Financial Crime Analytics, Time Series, Knowledge Graphs, Experimentation
+**ML / AI:** Python, PyTorch, scikit-learn, XGBoost / LightGBM / CatBoost, BERT / spaCy, LangChain / LangGraph, Claude API, GPT-4o, NLP, Graph Analytics, Clustering 
+**Data & Engineering:** SQLite, Spark, PySpark, Kafka, MongoDB, Flask, Streamlit, Docker, Azure DevOps, Neo4j, R, MATLAB, MS Excel, Google AppScript, AnyLogic, Alteryx
 
 ---
 

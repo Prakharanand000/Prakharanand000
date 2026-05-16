@@ -32,7 +32,9 @@ Outside work: chess, badminton, acoustic guitar, the Oakland Half Marathon, and 
 ## Tech stack
 
 **Languages:** Python, SQL, JavaScript  
+
 **ML / AI:** Python, PyTorch, scikit-learn, XGBoost / LightGBM / CatBoost, BERT / spaCy, LangChain / LangGraph, Claude API, GPT-4o, NLP, Graph Analytics, Clustering 
+
 **Data & Engineering:** SQLite, Spark, PySpark, Kafka, MongoDB, Flask, Streamlit, Docker, Azure DevOps, Neo4j, R, MATLAB, MS Excel, Google AppScript, AnyLogic, Alteryx
 
 ---
